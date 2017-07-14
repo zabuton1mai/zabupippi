@@ -13,9 +13,9 @@ Raspberry Piにエアコンのリモート操作をしてもらうための設�
 ## 必要なもの(ハードウェア)
 
 ### Raspberry Pi
-Raspbian
-赤外線LED照射機
-赤外線LED受けるやつ
++ Raspbian
++ 赤外線LED照射機
++ 赤外線LED受けるやつ
 
 
 ## インストール
